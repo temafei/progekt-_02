@@ -1,0 +1,50 @@
+body {
+text-align: center;
+display: inline-flex;
+}
+
+div {
+    margin: 0 auto;
+    width: 200px;
+    background-color: rgb(206, 156, 99);
+    height: 200px;
+   overflow: auto;
+   border: 2px solid;
+    /*width: 80%;
+    min-width: 700px;
+    max-width: 1200px;*/
+    margin-right: 20px;
+}
+
+.exp1{
+   border: 2px solid blue;
+   height: 200px;
+overflow: auto;
+background-color: rgb(138, 218, 118);
+}
+
+.exp2{
+    border: 2px dashed blue;
+    height: 200px;
+    overflow: auto;
+}
+
+.exp3{
+    border: 2px dotted blue;
+    height: 200px;
+    overflow: auto;
+    background-color: rgb(138, 218, 118);
+}
+
+.exp4{
+    border: 2px double blue;
+    height: 200px;
+    overflow: auto;
+}
+
+.exp5{
+    border: 2px ridge blue ;
+    height: 200px;
+    overflow: auto;
+    background-color: rgb(138, 218, 118);
+}
